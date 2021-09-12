@@ -21,9 +21,9 @@ body {
   border-right: none;
 }
 .search-button {
-  padding: 10px 50px;
+  padding: 8px 50px;
   border-radius: 25px;
-  margin-left: 20px;
+  margin-left: 15px;
 }
 #all-products {
   display: grid;
